@@ -6,7 +6,8 @@ sections:
     type: section_hero
     title: 'Hi, I''m Gerry Aballa.'
     content: |
-      "Discipline will take you places where motivation cannot." 
+      "
+      Discipline will take you places where motivation cannot." 
   - section_id: about
     type: section_content
     title: About
