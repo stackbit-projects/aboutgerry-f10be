@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Gerry Aballa.'
     content: |
-    Your friendly neighbourhood digital expert.
+        Your friendly neighbourhood digital expert.
       "Discipline will take you places where motivation cannot." 
   - section_id: about
     type: section_content
